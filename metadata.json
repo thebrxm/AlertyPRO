@@ -1,0 +1,5 @@
+{
+  "name": "ALERTYpro",
+  "description": "A real-time incident notification system using browser push APIs and Gemini AI for message formatting and severity analysis.",
+  "requestFramePermissions": []
+}
